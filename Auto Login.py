@@ -8,7 +8,7 @@ pwd = getpass (" ID Password ")
 
 
 driver = webdriver.Chrome(executable_path='---')  #<---Put chromedriver.exe Path Here--->#
-driver.get('---') #<---Link Here--->#
+driver.get('---') #<---Website Link Here--->#
 
 
 userbox = driver.find_element_by_id ('---')  #<---Element Here--->#
