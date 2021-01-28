@@ -1,4 +1,4 @@
-3from selenium import webdriver
+from selenium import webdriver
 from getpass import getpass
 from selenium.webdriver.chrome.service import Service
 
